@@ -14,8 +14,8 @@
   - منابع پشتیبانی کسب‌و‌کار کوچک
     1. مدیریت کسب‌و‌کار کوچک - SBA - www.sba.gov
     2. مرکز توسعه کسب‌و‌کار کوچک - SBDC - www.sba.gov/sbdc
-    3. اتاق بازرگانی - uschamber.com
-    4. SCORE - score.org
+    3. اتاق بازرگانی - www.uschamber.com
+    4. SCORE - www.score.org
   - اعمال کردن تحلیل SWOT به ایده و طرح خود
     1. مرحله ۱
     2. مرحله ۲
